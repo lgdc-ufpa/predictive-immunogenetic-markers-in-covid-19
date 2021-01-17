@@ -1,0 +1,7 @@
+hla: hla_name
+  -
+  protein: protein_name
+  -
+
+    nb: 0
+    sb: 1
